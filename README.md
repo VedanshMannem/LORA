@@ -5,7 +5,7 @@ This project's goal is to make my own LoRa (long rage) puck. It can transmit RF 
 This is one of my first full scale PCB projects. I found this one extremely fun because I got to learn a lot more about RF circuits, some of the physics behind managing these electronics, and it was just great practice overall to improve my schematics and PCB routing. This was also my first time working with multi-layer PCBs, and the whole via concept was really cool to connect gnd across different layers. Until now, this has definitely been my best hardware project!
 
 ## Usage
-This repo contains KiCAD project files as well as photos showing the finished project (schematics, 2D & 3D layout JLCPCB final version, etc.). The included BOM contains a full cost breakdown of all necessary components. Some components aren't in stock currently, so a few subsitutes were used. A lot of them also require extended assembly, slightly increasing the cost of the PCB.
+This repo contains KiCAD project files as well as photos showing the finished project (schematics, 2D & 3D layout JLCPCB final version, etc.). The included BOM contains a full cost breakdown of all necessary components. Some components aren't in stock currently, so a few subsitutes were used. A lot of them also require extended assembly, slightly increasing the cost of the PCB. I have a few substitutes to my BOM already listed, but I think it's price optimized especially considering all the specific modules required for this project. 
 
 ## Some photos:
 <img width="1025" height="722" alt="Screenshot 2025-11-29 044827" src="https://github.com/user-attachments/assets/89dc8347-6b53-4339-870f-fc857c33b0fb" />
